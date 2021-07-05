@@ -1,8 +1,8 @@
-# Белая бумага VIZPLUS
-## Необходимые предварительные пояснения
-Блокчейн VIZ уникален тем, что у него нет «команды», «создателя», «системы управления» и прочих атрибутов проекта, компании или организации любого типа. А значит, у него нет идеологии, базовых принципов, социальных правил или даже некоего «правильного» понимания, зачем он был создан. 
+# VIZPLUS White Paper
+## Explanations you need to know before all
+The VIZ blockchain is unique in that it doesn't have any "team", "creator", "management system" and other attributes of a project, company or organization etc. And this means that it has no ideology, basic principles, social rules, or even some "correct" understanding of why it was created.
 
-Любой владелец аккаунта и токенов блокчейна VIZ может иметь собственную точку зрения на цели и методы использования этого блокчейна и связанных с ним инструментов. Единственное существующее ограничение - это код блокчейна: всё, что соответствует коду, легитимно.
+On the VIZ blockchain any account and tokens owner can have their own point of view on the purposes and methods of using this blockchain and related tools. The only limitation that exists is the blockchain code: anything that matches the code is legitimate.
 
 Поэтому данный документ - не более чем личное видение его автора, с которым можно соглашаться или нет. Это мнение также является основой деятельности VIZPLUS.
 ## Что такое ВИЗ?
