@@ -4,15 +4,18 @@ The VIZ blockchain is unique in that it doesn't have any "team", "creator", "man
 
 On the VIZ blockchain any account and tokens owner can have their own point of view on the purposes and methods of using this blockchain and related tools. The only limitation that exists is the blockchain code: anything that matches the code is legitimate.
 
-Поэтому данный документ - не более чем личное видение его автора, с которым можно соглашаться или нет. Это мнение также является основой деятельности VIZPLUS.
-## Что такое ВИЗ?
-ВИЗ - децентрализованная [цифровая экосистема](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Digital_ecosystem) сервисов, построенных вокруг **[социального капитала](https://en.wikipedia.org/wiki/Social_capital)** (см. ниже) её участников. Экосистема включает [блокчейн](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD) VIZ и решения для конечных пользователей (участников): сайты, мобильные и десктоп- приложения, расширения для браузеров, боты для социальных сетей и мессенджеров и др.
+And therefore, this document is nothing more than a personal vision of its author, with which one can agree or disagree. This vision is also the basis of VIZPLUS activities.
+## What is VIZ?
+VIZ is decentralized [digital ecosystem](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Digital_ecosystem) of services built around the **[social capital](https://en.wikipedia.org/wiki/Social_capital)** (see below) of its participants. The ecosystem includes the VIZ [blockchain](https://en.wikipedia.org/wiki/Blockchain) and solutions for end users (participants): websites, mobile and desktop applications, browser extensions, various bots for social networking services and messengers, etc.
 
-В ВИЗе нет стоящей за ним организации, менеджмента, «команды», официальных разработчиков или каких-либо официальных органов. Неизвестно, кто запустил блокчейн VIZ. Каждый участник ВИЗа имеет право и возможность делать что угодно в соответствии со своей долей в капитале ВИЗ, насколько это позволяет код блокчейна и приложений.
+There is no any organization, management, "team", official developers or any official bodies behind the VIZ. It's not known who launched the VIZ blockchain. Each VIZ participant has the right and the ability to do anything in accordance with his share in the VIZ capital, as far as the blockchain and application code allow.
 
-Слово ВИЗ или VIZ не имеет конкретного перевода или расшифровки, происходит от vision (видение).
-## Что такое VIZPLUS?
-VIZPLUS - частный некоммерческий проект в экосистеме ВИЗ, созданный одним из участников для развития экосистемы. Он включает некоторое количество аккаунтов VIZ, существенный социальный капитал, а также растущее количество сервисов и приложений.
+The word "VIZ" doesn't have a specific translation or decoding, it comes from the word "vision".
+
+## What is VIZPLUS?
+
+VIZPLUS is a private non-profit project in the VIZ ecosystem, created by one of the participiants for the development of the ecosystem. It consists of a number of VIZ accounts, substantial social capital, and a growing number of services and applications.
+
 ## Концепция наград и социального капитала
 В рамках экосистемы ВИЗ участники могут награждать друг друга криптоактивом viz из эмиссии, а сумма наград, полученных и сохранённых участником, становится «социальным капиталом», определяющим его значимость в рамках сообщества ВИЗ.
 
