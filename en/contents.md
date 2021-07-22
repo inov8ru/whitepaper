@@ -10,7 +10,7 @@ And therefore, this document is nothing more than a personal vision of its autho
 
 ## What is VIZ?
 
-VIZ is decentralized [digital ecosystem](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Digital_ecosystem) of services built around the **[social capital](https://en.wikipedia.org/wiki/Social_capital)** (see below) of its participants. The ecosystem includes the VIZ [blockchain](https://en.wikipedia.org/wiki/Blockchain) and solutions for end users (participants): websites, mobile and desktop applications, browser extensions, various bots for social networking services and messengers, etc.
+The VIZ is decentralized [digital ecosystem](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Digital_ecosystem) of services built around the **[social capital](https://en.wikipedia.org/wiki/Social_capital)** (see below) of its participants. The ecosystem includes the VIZ [blockchain](https://en.wikipedia.org/wiki/Blockchain) and solutions for end users (participants): websites, mobile and desktop applications, browser extensions, various bots for social networking services and messengers, etc.
 
 There is no any organization, management, "team", official developers or any official bodies behind the VIZ. It's not known who launched the VIZ blockchain. Each VIZ participant has the right and the ability to do anything in accordance with his share in the VIZ capital, as far as the blockchain and application code allow.
 
@@ -109,7 +109,7 @@ Each DAO participant can influence other participants in the following ways:
 
 Accordingly, each participant of the VIZ can also be a recipient of an award, an applicant to the Development Fund or a delegate. In addition, participants can develop commercial and non-commercial applications and build activities (including business) within the community, developing the VIZ ecosystem. 
 
-Unofficial slogans of VIZ DAO: "No one owes anything to anyone" and "You need to - you do it (or pay the one who will do it)".
+Unofficial slogans of the VIZ DAO: "No one owes anything to anyone" and "You need to - you do it (or pay the one who will do it)".
 
 ## Additional features of the VIZ
 
@@ -161,7 +161,7 @@ Voluntary useful activity usually deserves praise and gratitude, expressed in va
 
 This economy cannot be based on money, since money is a tool for subjectively fair exchange of work results. In this case, there is no work: people bring benefits and pleasure for free, simply because they want to do it and want to receive approval from others in the form of gratitude.
 
-VIZ tries to make the gratitude received useful in the long term, without reducing this process to payment or donation. Within the framework of the VIZ ecosystem, participants can reward each other with the viz cryptoasset, and the amount of awards becomes a kind of universal "social capital" of the participant, determining its significance within the community.
+The VIZ tries to make the gratitude received useful in the long term, without reducing this process to payment or donation. Within the framework of the VIZ ecosystem, participants can reward each other with the viz cryptoasset, and the amount of awards becomes a kind of universal "social capital" of the participant, determining its significance within the community.
 
 The key difference between VIZ and classic donation services is that the reward is not transferred from the rewarding person to the recipient, but is distributed to the rewarding person from the constantly ongoing issue of the viz cryptoasset.
 
