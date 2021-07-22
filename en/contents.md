@@ -1,11 +1,15 @@
 # VIZPLUS White Paper
+
 ## Explanations you need to know before all
+
 The VIZ blockchain is unique in that it doesn't have any "team", "creator", "management system" and other attributes of a project, company or organization etc. And this means that it has no ideology, basic principles, social rules, or even some "correct" understanding of why it was created.
 
 On the VIZ blockchain any account and tokens owner can have their own point of view on the purposes and methods of using this blockchain and related tools. The only limitation that exists is the blockchain code: anything that matches the code is legitimate.
 
 And therefore, this document is nothing more than a personal vision of its author, with which one can agree or disagree. This vision is also the basis of VIZPLUS activities.
+
 ## What is VIZ?
+
 VIZ is decentralized [digital ecosystem](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Digital_ecosystem) of services built around the **[social capital](https://en.wikipedia.org/wiki/Social_capital)** (see below) of its participants. The ecosystem includes the VIZ [blockchain](https://en.wikipedia.org/wiki/Blockchain) and solutions for end users (participants): websites, mobile and desktop applications, browser extensions, various bots for social networking services and messengers, etc.
 
 There is no any organization, management, "team", official developers or any official bodies behind the VIZ. It's not known who launched the VIZ blockchain. Each VIZ participant has the right and the ability to do anything in accordance with his share in the VIZ capital, as far as the blockchain and application code allow.
@@ -17,22 +21,26 @@ The word "VIZ" doesn't have a specific translation or decoding, it comes from th
 VIZPLUS is a private non-profit project in the VIZ ecosystem, created by one of the participiants for the development of the ecosystem. It consists of a number of VIZ accounts, substantial social capital, and a growing number of services and applications.
 
 ## Concept of rewards and social capital
-Participants within the VIZ ecosystem can reward each other with a crypto asset from the emission, and the sum of the awards received and saved by the participant becomes "social capital" that determines its importance within the VIZ community.
+
+Participants within the VIZ ecosystem can reward each other with a cryptoasset from the emission, and the sum of the awards received and saved by the participant becomes "social capital" that determines its importance within the VIZ community.
 
 **Reward** is the main cocncept of the ecosystem. A reward is an analogue of "thank you" or "like", that is, voluntary gratitude for the benefit or pleasure that one ecosystem has brought to another participant. Anyone can award anyone for anything for any number of viz within the capabilities of the rewarding account. And in this case, "benefit" or "pleasure" is exclusively subjective and is determined only by the rewarder.
 
-The reward in the VIZ is not a predetermined salary, but a voluntary post-factum remuneration, the amount of which depends on the wishes and capabilities of the rewarding person. This makes the reward look like a tip, donation or grant. However, the key feature of VIZ is that the reward is not transferred from the account of the rewarding person to the account of the recipient, but is distributed by the rewarders on a competitive basis due to the permanent issue of the viz crypto asset.
+The reward in the VIZ is not a predetermined salary, but a voluntary post-factum remuneration, the amount of which depends on the wishes and capabilities of the rewarding person. This makes the reward look like a tip, donation or grant. However, the key feature of VIZ is that the reward is not transferred from the account of the rewarding person to the account of the recipient, but is distributed by the rewarders on a competitive basis due to the permanent issue of the viz cryptoasset.
 
 Each participant in the VIZ has the right and the opportunity to distribute a part of the emission in accordance with its share in the total social capital. The larger the amount of awards received and retained by the participant (that is, the higher his social capital), the greater share of the emission he can distribute, other things being equal, rewarding other participants. This encourages members to do more value for those with high social capital by competing for their rewards. Accordingly, within the VIZ ecosystem, it is beneficial to maintain high capital, that is, to constantly bring a lot of benefit to other participants and keep the awards received from them.
 
-It's also possible to increase social capital in the VIZ by purchasing the viz crypto asset in a liquid form and converting it into the capital. The purchase of viz benefits not only the buyer, but also the entire community, since such transactions provide all VIZ participants with information about the value of social capital and provide a guideline for determining a worthy amount of rewards in viz tokens. The transfering viz from social capital to a liquid form reduces the participant's capital, but allows him to “monetize” his previous merits by selling viz to those who want to quickly raise their capital.
+It's also possible to increase social capital in the VIZ by purchasing the viz cryptoasset in a liquid form and converting it into the capital. The purchase of viz benefits not only the buyer, but also the entire community, since such transactions provide all VIZ participants with information about the value of social capital and provide a guideline for determining a worthy amount of rewards in viz tokens. The transfering viz from social capital to a liquid form reduces the participant's capital, but allows him to “monetize” his previous merits by selling viz to those who want to quickly raise their capital.
+
 ## Elements of the VIZ ecosystem
+
 The VIZ ecosystem in a simplified form consists of the VIZ blockchain and applications that use the blockchain as a decentralized immutable storage of account and transaction data.
 
 ### The VIZ blockchain and the viz cryptoasset
+
 The VIZ blockchain belongs to the [Graphene-blockchain](https://github.com/cryptonomex/graphene) family, it's based on the Golos blockchain code (v.18), but has significant changes compared to it. The VIZ blockchain uses the [DPoS](https://en.wikipedia.org/wiki/Proof_of_stake) consensus, 21 delegates participate in the block signing cycle (in other DPoS blockchains they are called “validators”, “block producers”, etc. ), 11 of which are top delegates and 10 are automatically selected according to a certain algorithm from all the others. The consensus recognizes the signing of the block by 17 delegates of 21 in one cycle.
 
-The VIZ blockchain uses one crypto asset - viz, which has two forms: in social capital and liquid. The number of viz in the capital determines the influence of the account on the distribution of the issue, voting for delegates, etc. Vizs in social capital are “frozen” on the participant's account: they can be converted to liquid form only within 28 days in equal portions once a day. Liquid viz is used to transfer between accounts. The transfer of viz from a liquid form to capital is done instantly.
+The VIZ blockchain uses one cryptoasset - viz, which has two forms: in social capital and liquid. The number of viz in the capital determines the influence of the account on the distribution of the issue, voting for delegates, etc. Vizs in social capital are “frozen” on the participant's account: they can be converted to liquid form only within 28 days in equal portions once a day. Liquid viz is used to transfer between accounts. The transfer of viz from a liquid form to capital is done instantly.
 
 The viz cryptoasset is not positioned as a cryptocurrency or a "coin", it's an **accounting unit** of the social capital. However, since viz has a certain market value, if desired, participants can use it to pay for goods and services, like any other cryptoasset.
 
@@ -43,6 +51,7 @@ Viz emissions are distributed in three areas: the Rewards Fund, the Development 
 There are no smart contracts in the VIZ blockchain, all the logic of interaction between accounts is moved to the application level.
 
 ### VIZ ecosystem applications
+
 Applications serve to simplify the interaction of VIZ participants with the blockchain. Their main task is to broadcast various scenarios in which participants reward each other to the blockchain in the form of a standard transaction. Applications are created by individual developers and teams, they are centralized (i.e. they work outside the blockchain) and use the VIZ blockchain as a single decentralized immutable database.
 
 *Examples of existing and possible applications*:
@@ -54,11 +63,11 @@ Applications serve to simplify the interaction of VIZ participants with the bloc
 * an online quest, as the player completes it, he receives the VIZ rewards;
 * the "Reward a consultant" button in the technical support system for users of a service;
 * a mobile application for voting in polls, for example, "The best player of a football match", "The winner of a song contest" , etc. The voting takes place in the form of awarding the organizers ' account with a comment for whom the vote was given, and they award the winner for the corresponding amount of viz;
-*  etc.
+* etc.
 
 In addition, the applications of the VIZ ecosystem include various services such as Internet wallets for managing accounts and cryptoassets of the VIZ blockchain, software for signing transactions on the participant's side without transferring passwords to insecure applications, etc.
 
-### The VIZ ecosystem scheme (simplified)
+### VIZ ecosystem scheme (simplified)
 
 Users have VIZ accounts in the blockchain, not in applications. This means that one account can be used by a user in any number of applications without additional registration. The application only translates the standard instructions of the user, "packaging" them in one form or another in accordance with the scenario used by this application.
 
@@ -80,77 +89,88 @@ HUB is a regular Internet application (a game, a social network, a messenger, a 
 
 The community of VIZ participants is organized in the form of a Decentralized Autonomous Organization (DAO). There is no single "team", "management", "corporation", "organization", etc. in the VIZ. Each DAO participant acts independently, using his capital in the VIZ. It's assumed that the owners of capital in the VIZ benefit from its long-term value growth, which means that, based on their selfish interest, they will contribute to the development of the entire ecosystem.
 
-### The delegates of The VIZ blockchain
-The only group of VIZ DAO participants who have more rights than others are the delegates of the VIZ blockchain. The delegates maintain and support the work on the blockchain (servers with special software that form blockchain blocks), make decisions on software updates and set the technical and economic parameters of the VIZ operation.
+### The delegates of the VIZ blockchain
 
-Единственная группа участников ДАО ВИЗ, имеющая больше прав, чем другие, это делегаты блокчейна VIZ. Делегаты содержат и поддерживают работу нод блокчейна (серверов со специальным программным обеспечением, формирующих блоки блокчейна), принимают решения об обновлении программного обеспечения и устанавливают технические и экономические параметры работы ВИЗа.
+The only group of VIZ DAO participants who have more rights than others are the delegates of the VIZ blockchain. The delegates maintain and support the work on the blockchain (servers with special software that form blockchain blocks), make decisions on software updates and set the technical and economic parameters of the operation of the VIZ.
 
-Делегаты блокчейна VIZ избираются общим непрерывным голосованием по принципу Fair DPoS: количество долевых viz проголосовавшего аккаунта становится количеством его голосов и делится поровну между всеми делегатами, за которых он проголосовал.
+The delegates of the VIZ blockchain are elected by a general continuous vote according to the Fair DPoS principle: the number of viz shares of the voting account becomes the number of its votes and is divided equally among all the delegates for whom it voted.
 
-Любой участник ВИЗа может поднять ноду блокчейна и объявить себя делегатом, предложив другим участникам проголосовать за него. Все делегаты участвуют в подписании блоков и трансляции параметров, но 11 делегатов, получивших максимальное количество голосов участников, делают это постоянно, а остальные - с убывающей периодичностью (чем ниже позиция делегата, тем реже).
+Any VIZ participant can raise a blockchain node and declare himself a delegate, inviting other participants to vote for him. All delegates participate in signing blocks and broadcasting parameters, but 11 delegates who received the maximum number of votes of participants do it constantly, and the others - with decreasing frequency (the lower the delegate's position, the less often).
 
-Деятельность делегатов вознаграждается из эмиссии в виде платы за каждый подписанный блок.
-### Возможности участников ДАО ВИЗ
-Каждый участник ДАО может влиять на других участников следующими способами:
+The activity of delegates is rewarded from the issue in the form of a fee for each signed block.
 
-* распределять часть эмиссии viz в пользу других участников в виде наград;
-* голосовать за делегатов блокчейна VIZ;
-* голосовать (положительно или отрицательно) за заявки на вознаграждение из Фонда развития. Если заявка набирает установленный делегатами минимум голосов, заявитель получает награду от сообщества.
+### Opportunities of the VIZ DAO participants
 
-Соответственно, каждый участник ВИЗа также может быть получателем награды, заявителем в Фонд развития или делегатом. Кроме того, участники могут разрабатывать коммерческие и некоммерческие приложения и строить деятельность (в т.ч. бизнес) внутри сообщества, развивая экосистему ВИЗ.
-Неофициальные лозунги ДАО ВИЗ: «Никто никому ничего не должен» и «Тебе надо - ты и делай (или заплати тому, кто сделает)».
-## Дополнительные возможности ВИЗа
-Помимо системы наград в экосистему ВИЗ на уровне кода блокчейна встроены дополнительные возможности, которые могут использоваться приложениями и участниками для более эффективного взаимодействия: чеки, подписки и трёхсторонние сделки.
+Each DAO participant can influence other participants in the following ways:
 
-Чек - пара ключей (публичный и приватный), использование которых даёт право на получение их владельцем определённого количества ликвидных токенов viz от создателя чека. Чеки могут использоваться для ненаправленной передачи viz’ов (аналог «чека на предъявителя»). Также при помощи чека можно зарегистрировать аккаунт в ВИЗе.
+* distribute a part of the viz issue in favor of other participants in the form of awards;
+* vote for the VIZ blockchain delegates;
+* vote (positively or negatively) for applications for remuneration from the Development Fund. If the application receives the minimum number of votes set by the delegates, the applicant receives an award from the community.
 
-Многоуровневая платная подписка - система настраиваемых рекуррентных платежей ликвидными viz’ами в адрес определёного аккаунта без посредника (через блокчейн). Может использоваться для подписки на медиа, регулярных благотворительных взносов, оплаты труда и т.п.
+Accordingly, each participant of the VIZ can also be a recipient of an award, an applicant to the Development Fund or a delegate. In addition, participants can develop commercial and non-commercial applications and build activities (including business) within the community, developing the VIZ ecosystem. 
 
-Сделка с гарантом - способ передачи ликвидных viz’ов между двумя аккаунтами только при согласии со стороны третьего аккаунта (гаранта). При этом гарант не может забрать перевод себе, он может передать его получателю или вернуть отправителю.
+Unofficial slogans of VIZ DAO: "No one owes anything to anyone" and "You need to - you do it (or pay the one who will do it)".
 
-**Приложение**
+## Additional features of the VIZ
 
-# Посттрудовая экономика и ВИЗ
-В доиндустриальной и индустриальной экономиках обычный человек был вынужден много и тяжело работать, чтобы удовлетворить свои базовые материальные нужды - крыша над головой, еда, одежда. Труд (в данном случае под ним понимается оплачиваемая работа или необходимые для выживания действия) занимал подавляющую часть времени, остальное уходило на сон и более или менее пассивный отдых. То есть труд был практически единственной «деятельностью» или, как минимум, подавляюще-главной.
+In addition to the reward system, additional features are built into the VIZ ecosystem at the blockchain code level that can be used by applications and participants for more effective interaction: checks, subscriptions and three-way transactions.
 
-В постиндустриальной экономике роль труда ограничена, но всё же велика. Однако, появление у человека свободных ресурсов - времени, денег и сил - привело к зарождению нового вида деятельности - необязательного потребления. К нему относится как материальное потребление за пределами необходимого, так и нематериальное потребление: книги, журналы, кино, популярная музыка, просмотр спорта, сериалы, видеоигры, туризм, развлечения в интернете, развлекательная социализация, политический, экологический и прочий активизм и т.д. В развитом обществе этот вид деятельности уже не менее важен для человека и общества, чем труд: человек может определять себя сначала как «фанат футбольного клуба ‘Барселона’» и «любитель аниме» и только потом как «менеджер среднего звена в страховой компании».
+A check is a pair of keys (public and private), the use of which entitles their owner to receive a certain number of liquid viz tokens from the creator of the check. Checks can be used for non-directional transfer of viz's (analogous to a "bearer check"). You can also use the check to register an account in the VIZ.
 
-В наступающей посттрудовой экономике базовые нужды человека удовлетворяются за счёт безусловного базового дохода и других доходов, не связанных напрямую с трудовой деятельностью (например, продажи личных данных), а также (при необходимости) некоторого количества оплачиваемого труда. Роль труда сократится до минимума, но потребление займёт не всё его место в жизни человека. Уже сейчас можно наблюдать появление и развитие третьего вида деятельности, который как минимум частично заменяет труд.
-## Третья деятельность
-Новый вид деятельности в посттрудовом обществе - это добровольная полезная для других деятельность, не подразумевающая обязательной и полноценной оплаты со стороны получателей пользы (понятие «пользы» в данном случае субъективно и определяется только её получателем).
+A multi-level paid subscription is a system of customizable recurrent payments with liquid vizs to a specific account without an intermediary (via the blockchain). It can be used for media subscriptions, regular charitable contributions, remuneration, etc.
 
-В качестве примеров такой деятельности, можно привести:
+A transaction with a guarantor is a method of transferring liquid vizs between two accounts only with the consent of the third account (the guarantor). At the same time, the guarantor cannot take the transfer for himself, he can transfer it to the recipient or return it to the sender.
 
-* создание и редактирование статей Википедии;
-* создание и раздача торрентов;
-* ведение некоммерческого блога, твиттера, инстаграма, канала и т.д.;
-* участие в фанатском движении;
-* участие в КСП, КВН, ЧГК, любительском театре и т.п.;
-* ответы на вопросы пользователей различных сервисов;
-* участие в дискуссиях на форумах и т.п.;
-* участие в спортивных и других конкурсах и соревнованиях;
-* стриминг прохождения компьютерной игры;
-* стриминг live-порнографии;
-* комментирование публикаций в интернет-СМИ;
-* перевод субтитров к сериалу на другой язык;
-* создание внешнего вида, приносящего удовольствие окружающим;
-* особенно хорошее обслуживание в ресторане;
-* и т.д.
+**Addendum**
 
-В будущем появятся новые виды добровольной деятельности, приносящей пользу или удовольствие другим людям. Они будут связаны в основном с нематериальным потреблением, будут обслуживать его или быть его источником.
-## Вместо денег
-Добровольная полезная активность обычно заслуживает похвалы и благодарности, выражающейся в разного рода «лайках» или «спасибо». Пока данная деятельность составляет небольшую и не очень значимую часть жизни человека, устного или виртуального вознаграждения достаточно. Но с развитием «третьей деятельности» неизбежно возникнет её экономика, пересекающаяся с экономикой нематериального потребления. 
+# Post-labor economy and the VIZ
 
-Эта экономика не может быть основана на деньгах, так как деньги - инструмент для субъективно справедливого обмена результатами работы. В данном же случае работы нет: люди приносят пользу и удовольствие бесплатно, просто потому что хотят это делать и хотят получать одобрение от других в виде благодарности.
+In the pre-industrial and industrial economies, an ordinary person was forced to work hard and hard to satisfy his basic material needs - a roof over his head, food, clothing. Labor (in this case, it means paid work or actions necessary for survival) occupied the vast majority of the time, the rest was spent on sleep and more or less passive rest. That is, labor was almost the only "activity" or, at least, the overwhelming main one.
 
-ВИЗ пытается сделать полученную благодарность полезной в долгосрочном плане, не сводя этот процесс к оплате или донату. В рамках экосистемы ВИЗ участники могут награждать друг друга криптоактивом viz, а сумма наград становится своего рода универсальным «социальным капиталом» участника, определяющим его значимость в рамках сообщества.
+In the post-industrial economy, the role of labor is limited, but still great. However, the appearance of free resources - time, money and effort - led to the emergence of a new type of activity - optional consumption. It includes both material consumption beyond the necessary, and non-material consumption: books, magazines, movies, popular music, watching sports, TV series, video games, tourism, entertainment on the Internet, entertainment socialization, political, environmental and other activism, etc. In a developed society, this type of activity is no less important for a person and society than work: a person can define himself first as a "fan of the Barcelona football club" and "an anime fan" and only then as a "middle-level manager in an insurance company".
 
-Ключевое отличие ВИЗ от классических сервисов доната в том, что награда не передаётся от награждающего награждаемому, а распределяется награждающим из постоянно идущей эмиссии криптоактива viz. 
-## Польза - viz - Польза’
-Каждый участник ВИЗ имеет право и возможность распределить часть эмиссии в соответствии со своей долей в общем количестве долевых viz. Чем большую сумму наград получил участник ранее (то есть чем выше его социальный капитал), тем большую долю эмиссии он может распределить, награждая других участников. Это означает, что чем выше социальный капитал участника, тем больше пользы он может получить от других участников.
+In the coming post-labor economy, the basic needs of a person are met at the expense of an unconditional basic income and other income not directly related to work (for example, the sale of personal data), as well as (if necessary) a certain amount of paid labor. The role of labor will be reduced to a minimum, but consumption will not take its entire place in a person's life. Already now we can observe the emergence and development of a third type of activity, which at least partially replaces labor.
 
-Также увеличить социальный капитал в ВИЗе можно, купив криптоактив viz. Покупка viz приносит пользу не только продавцу, но и всему сообществу, так как такие сделки создают информацию о ценности социального капитала и дают ориентир для определения размера наград в viz.
+## Third activity
 
-Эмиссия криптоактива viz постепенно «размывает» капиталы участников, поэтому никто не сможет долго сохранять влияние в сообществе за счёт прежних заслуг. Экономика ВИЗа стимулирует участников постоянно создавать пользу, чтобы сохранять влияние. Кроме того, накопление социального капитала (доли в ВИЗе) выше определённого уровня без внешних финансовых вливаний невозможно: инфляция будет «съедать» больше, чем приносят награды. Поэтому обладатели высокого социального капитала для его сохранения вынуждены выкупать криптоактив viz у других участников, повышая ценность всей экосистемы.
+A new type of activity in a post-labor society is a voluntary activity useful for others, which does not imply mandatory and full-fledged payment from the recipients of benefits (the concept of "benefit" in this case is subjective and is determined only by its recipient).
 
-В результате, экосистема ВИЗ используется как посредник в сообществе людей, приносящих друг другу пользу или удовольствие за пределами трудовых отношений. Социальный капитал играет ту же роль, что деньги в обычной экономике, но в отличие от денег, не определяет относительную ценность услуг, а лишь дополнительно стимулирует людей делать то, что они готовы делать бесплатно, - за счёт повышения их социального капитала и признания в обществе.
+As examples of such activities, we can cite:
+
+* creating and editing Wikipedia articles;
+* creating and distributing torrents;
+* maintaining a non-commercial blog, Twitter, instagram, channel, etc.;
+* participating in the fan movement;
+* Participation in intellectual competitions, theater, etc.;
+* answers to questions from users of various services;
+* participation in discussions on forums, etc.;
+* participation in sports and other competitions and competitions;
+* streaming of a playing a computer games;
+* streaming live pornography;
+* commenting on publications in online media;
+* translation of subtitles for the series into another language;
+* creating an appearance that brings pleasure to others;
+* especially good service in the restaurant;
+* etc.
+
+In the future, there will be new types of voluntary activities that bring benefit or pleasure to other people. They will be mainly associated with intangible consumption, will serve it or be its source.
+
+## Instead of money
+
+Voluntary useful activity usually deserves praise and gratitude, expressed in various kinds of" likes "or"thank you". As long as this activity is a small and not very significant part of a person's life, oral or virtual remuneration is enough. But with the development of the "third activity", its economy will inevitably arise, intersecting with the economy of intangible consumption.
+
+This economy cannot be based on money, since money is a tool for subjectively fair exchange of work results. In this case, there is no work: people bring benefits and pleasure for free, simply because they want to do it and want to receive approval from others in the form of gratitude.
+
+VIZ tries to make the gratitude received useful in the long term, without reducing this process to payment or donation. Within the framework of the VIZ ecosystem, participants can reward each other with the viz cryptoasset, and the amount of awards becomes a kind of universal "social capital" of the participant, determining its significance within the community.
+
+The key difference between VIZ and classic donation services is that the reward is not transferred from the rewarding person to the recipient, but is distributed to the rewarding person from the constantly ongoing issue of the viz cryptoasset.
+
+## Good - viz - Good’
+
+Each VIZ participant has the right and the opportunity to distribute a part of the issue in accordance with its share in the total number of equity viz. The greater the amount of awards a participant received earlier (that is, the higher his social capital), the greater the share of the issue he can distribute by rewarding other participants. This means that the higher the social capital a participant has, the more benefit he can get from other participants.
+
+You can also increase the social capital in the viz by buying the viz cryptoasset. Buying viz benefits not only the seller, but also the entire community, as such transactions create information about the value of social capital and provide a guideline for determining the amount of rewards in viz.
+
+The issue of the viz cryptoasset gradually "erodes" the capitals of the participants, so no one will be able to maintain influence in the community for a long time at the expense of previous merits. The VIZ economy encourages participants to constantly create benefits in order to maintain influence. In addition, the accumulation of social capital (a shares in the VIZ ecosystem) above a certain level is impossible without external financial injections: inflation will "eat" more than the rewards bring. Therefore, the owners of high social capital are forced to buy the viz cryptoasset from other participants in order to preserve it, increasing the value of the entire ecosystem.
+
+As a result, the VIZ ecosystem is used as an intermediary in a community of people who bring each other benefits or pleasure outside of labor relations. Social capital plays the same role as money in an ordinary economy, but unlike money, it does not determine the relative value of services, but only further encourages people to do what they are willing to do for free - by increasing their social capital and recognition in society.
