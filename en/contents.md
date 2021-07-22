@@ -16,64 +16,73 @@ The word "VIZ" doesn't have a specific translation or decoding, it comes from th
 
 VIZPLUS is a private non-profit project in the VIZ ecosystem, created by one of the participiants for the development of the ecosystem. It consists of a number of VIZ accounts, substantial social capital, and a growing number of services and applications.
 
-## Концепция наград и социального капитала
-В рамках экосистемы ВИЗ участники могут награждать друг друга криптоактивом viz из эмиссии, а сумма наград, полученных и сохранённых участником, становится «социальным капиталом», определяющим его значимость в рамках сообщества ВИЗ.
+## Concept of rewards and social capital
+Participants within the VIZ ecosystem can reward each other with a crypto asset from the emission, and the sum of the awards received and saved by the participant becomes "social capital" that determines its importance within the VIZ community.
 
-**Награда** - ключевое понятие экосистемы. Награда - это аналог «спасибо» или «лайка», то есть добровольная благодарность за пользу или удовольствие, которые один участник экосистемы доставил другому участнику. Награждать может кто угодно, кого угодно и за что угодно на любое количество viz в рамках возможностей награждающего аккаунта. При этом «польза» или «удовольствие» исключительно субъективны и определяются только награждающим.
+**Reward** is the main cocncept of the ecosystem. A reward is an analogue of "thank you" or "like", that is, voluntary gratitude for the benefit or pleasure that one ecosystem has brought to another participant. Anyone can award anyone for anything for any number of viz within the capabilities of the rewarding account. And in this case, "benefit" or "pleasure" is exclusively subjective and is determined only by the rewarder.
 
-Награда в ВИЗ - не заранее определённая оплата труда, а добровольное вознаграждение постфактум, размер которого зависит от желания и возможностей награждающего. Это делает награду похожей на чаевые, донат или пожертвование. Однако, ключевое отличие ВИЗ в том, что награда не переводится с аккаунта награждающего на аккаунт награждаемого, а конкурентно распределяется награждающими из постоянно идущей эмиссии криптоактива viz.
+The reward in the VIZ is not a predetermined salary, but a voluntary post-factum remuneration, the amount of which depends on the wishes and capabilities of the rewarding person. This makes the reward look like a tip, donation or grant. However, the key feature of VIZ is that the reward is not transferred from the account of the rewarding person to the account of the recipient, but is distributed by the rewarders on a competitive basis due to the permanent issue of the viz crypto asset.
 
-Каждый участник ВИЗ имеет право и возможность распределить часть эмиссии в соответствии со своей долей в совокупном социальном капитале. Чем большую сумму наград получил и сохранил участник (то есть чем выше его социальный капитал), тем большую долю эмиссии он может распределить при прочих равных, награждая других участников. Это стимулирует участников приносить больше пользы обладателям высокого социального капитала, конкурируя за их награды. Соответственно, в рамках экосистемы ВИЗ выгодно поддерживать высокий капитал, то есть постоянно приносить много пользы другим участникам и сохранять полученные от них награды.
+Each participant in the VIZ has the right and the opportunity to distribute a part of the emission in accordance with its share in the total social capital. The larger the amount of awards received and retained by the participant (that is, the higher his social capital), the greater share of the emission he can distribute, other things being equal, rewarding other participants. This encourages members to do more value for those with high social capital by competing for their rewards. Accordingly, within the VIZ ecosystem, it is beneficial to maintain high capital, that is, to constantly bring a lot of benefit to other participants and keep the awards received from them.
 
-Также увеличить социальный капитал в ВИЗе можно, купив криптоактив viz в ликвидном виде и переведя его в форму капитала. Покупка viz приносит пользу не только покупателю, но и всему сообществу, так как такие сделки поставляют всем участникам ВИЗа информацию о ценности социального капитала и дают ориентир для определения достойного размера наград в токенах viz. Перевод viz из социального капитала в ликвидную форму снижает капитал участника, но позволяет «монетизировать» его прежние заслуги, продав viz’ы тем, кто хочет быстро поднять свой капитал.
-## Элементы экосистемы ВИЗ
-Экосистема ВИЗ в упрощённом виде состоит из блокчейна VIZ и приложений, использующих блокчейн как распределённое неизменяемое хранилище данных об аккаунтах и транзакциях.
-### Блокчейн VIZ и криптоактив viz
-Блокчейн VIZ относится к семейству [Graphene-блокчейнов](https://github.com/cryptonomex/graphene), он основан на коде блокчейна Golos (v.18), но имеет существенные изменения по сравнению с ним. Блокчейн VIZ использует консенсус [DPoS](https://en.wikipedia.org/wiki/Proof_of_stake), в цикле подписания блока участвуют 21 делегат (в других DPoS-блокчейнах они называются «валидаторы», «блокпродюсеры» и т.п.), из них 11 - топ-делегаты и 10 автоматически выбираются по определённому алгоритму из всех остальных. Консенсусом признаётся подписание блока 17-ю делегатами из 21-го в одном цикле.
+It's also possible to increase social capital in the VIZ by purchasing the viz crypto asset in a liquid form and converting it into the capital. The purchase of viz benefits not only the buyer, but also the entire community, since such transactions provide all VIZ participants with information about the value of social capital and provide a guideline for determining a worthy amount of rewards in viz tokens. The transfering viz from social capital to a liquid form reduces the participant's capital, but allows him to “monetize” his previous merits by selling viz to those who want to quickly raise their capital.
+## Elements of the VIZ ecosystem
+The VIZ ecosystem in a simplified form consists of the VIZ blockchain and applications that use the blockchain as a decentralized immutable storage of account and transaction data.
 
-В блокчейне VIZ используется один криптоактив - viz, имеющий две формы: в капитале и ликвидную. Количество viz  в капитале определяет влияние аккаунта на распределение эмиссии, голосование за делегатов и др. Viz'ы в социальном капитале «замораживаются» на счёте участника: их перевод в ликвидную форму может производиться только в течение 28 дней равными порциями один раз в день. Ликвидные viz используются для передачи между аккаунтами. Перевод viz из ликвидной формы в капитал производится мгновенно.
+### The VIZ blockchain and the viz cryptoasset
+The VIZ blockchain belongs to the [Graphene-blockchain](https://github.com/cryptonomex/graphene) family, it's based on the Golos blockchain code (v.18), but has significant changes compared to it. The VIZ blockchain uses the [DPoS](https://en.wikipedia.org/wiki/Proof_of_stake) consensus, 21 delegates participate in the block signing cycle (in other DPoS blockchains they are called “validators”, “block producers”, etc. ), 11 of which are top delegates and 10 are automatically selected according to a certain algorithm from all the others. The consensus recognizes the signing of the block by 17 delegates of 21 in one cycle.
 
-Криптоактив viz не позиционируется как криптовалюта или «монета», это **единица учёта** социального капитала. Впрочем, так как viz имеет определённую рыночную стоимость, при желании участники могут использовать его для оплаты товаров и услуг, как и любой другой криптоактив.
+The VIZ blockchain uses one crypto asset - viz, which has two forms: in social capital and liquid. The number of viz in the capital determines the influence of the account on the distribution of the issue, voting for delegates, etc. Vizs in social capital are “frozen” on the participant's account: they can be converted to liquid form only within 28 days in equal portions once a day. Liquid viz is used to transfer between accounts. The transfer of viz from a liquid form to capital is done instantly.
 
-Эмиссия viz происходит непрерывно. Её темп определён в коде блокчейна и может быть изменён только консенсусным голосованием делегатов в рамках обновления программного обеспечения блокчейна. На старте темп эмиссии составил 10% в год и с тех пор не менялся.
+The viz cryptoasset is not positioned as a cryptocurrency or a "coin", it's an **accounting unit** of the social capital. However, since viz has a certain market value, if desired, participants can use it to pay for goods and services, like any other cryptoasset.
 
-Эмиссия viz распределяется по трём направлениям: Фонд наград, Фонд развития (также называемый Комитет) и Фонд делегатов. Из Фонда наград выплачиваются награды; Фонд развития предназначен для вознаграждения участников за конкретные действия, полезные для развития экосистемы; Фонд делегатов автоматически вознаграждает делегатов за содержание нод (серверов) блокчейна и делегатскую деятельность. Доли эмиссии по направлениям определяются не консенсусом, а на основе медианных значений параметров делегатских нод.
+Viz is issued continuously. Its pace is defined in the blockchain code and can only be changed by consensus vote of delegates as part of a blockchain software update. At the start, the emission rate was 10% per year and has not changed since then.
 
-В блокчейне VIZ нет смартконтрактов, вся логика взаимодействия аккаунтов вынесена на уровень приложений.
-### Приложения экосистемы ВИЗ
-Приложения служат для упрощения взаимодействия участников ВИЗа с блокчейном. Их основная задача - транслировать различные сценарии, в которых участники награждают друг друга, в блокчейн в виде стандартной транзакции. Приложения создаются отдельными разработчиками и командами, они централизованы (т.е. работают вне блокчейна) и используют блокчейн VIZ как единую распределённую неизменяемую базу данных.
+Viz emissions are distributed in three areas: the Rewards Fund, the Development Fund (also called the Committee) and the Delegates Fund. Rewards are paid from the Rewards Fund; The Development Fund is designed to reward participants for specific actions that are useful for the development of the ecosystem; The Delegate Fund automatically rewards delegates for maintaining blockchain nodes (servers) and delegating activities. Dividing of emission shares by directions are determined not by consensus, but based on the median values of the parameters of delegate nodes.
 
-*Примеры существующих и возможных приложений*:
+There are no smart contracts in the VIZ blockchain, all the logic of interaction between accounts is moved to the application level.
 
-* Телеграм-бот для награждения участников обсуждений в чатах. Бот следит за сообщениями в чате и реагирует на определённые команды. Например, знак «+» в начале ответа на сообщение означает распоряжение наградить автора изначального сообщения;
-* плагин для браузера, который добавляет кнопку «Наградить» в некоторые соцсети, сервисы, форумы и т.п. Если установивший этот плагин участник ВИЗ нажмёт кнопку под сообщением пользователя соцсети, тот получит награду;
-* мобильное приложение, позволяющее награждать любого человека по тому или иному цифровому идентификатору (QR-код, распознанное лицо, NFC-метка телефона и т.д.);
-* «корзина» интернет-магазина, награждающая покупателей за совершённые покупки (система лояльности на базе ВИЗа);
-* онлайн-квест, по мере прохождения которого игрок получает ВИЗ-награды;
-* кнопка «Наградить консультанта» в системе техподдержки пользователей какого-либо сервиса;
-* мобильное приложение для голосования в опросах, например, «Лучший игрок футбольного матча», «Победитель конкурса песни» и т.п. Голосование проходит в виде награждения аккаунта организаторов с комментарием, за кого отдан голос, а те по итогам награждают победителя на соответствующую сумму viz; 
-* и т.д.
+### VIZ ecosystem applications
+Applications serve to simplify the interaction of VIZ participants with the blockchain. Their main task is to broadcast various scenarios in which participants reward each other to the blockchain in the form of a standard transaction. Applications are created by individual developers and teams, they are centralized (i.e. they work outside the blockchain) and use the VIZ blockchain as a single decentralized immutable database.
 
-Кроме того, к приложениям экосистемы ВИЗ относятся различные сервисы типа интернет-кошельков для управления аккаунтами и криптоактивами блокчейна VIZ, программное обеспечение для подписания транзакций на стороне участника без передачи паролей небезопасным приложениям и пр.
-### Схема: экосистема ВИЗа (упрощённо)
-Пользователи имеют ВИЗ-аккаунты в блокчейне, а не в приложениях. Это означает, что один аккаунт может использоваться пользователем в любом количестве приложений без дополнительной регистрации. Приложение лишь транслирует стандартные распоряжения пользователя, «упаковывая» их в ту или иную форму в соответствии со сценарием, используемым данным приложением.
+*Examples of existing and possible applications*:
 
-Например, распоряжение «наградить» может использоваться как благодарность за полезный или смешной комментарий в Телеграм-чате, как предложение «подружиться» в сервисе знакомств или как голосование за лучшего игрока футбольного матча.
+* a telegram bot for rewarding discussion participants in chats. This bot monitors chat messages and responds to certain commands. For example, a "+" sign at the beginning of a reply to a post indicates an order to reward the author of the original post;
+* a browser plugin that adds the "Reward" button to some social networks, services, forums, etc. If the VIZ member who installed this plugin clicks the button under the message of the social network user, that user will receive an award;
+* a mobile application that allows you to reward any person by a particular digital identifier (QR code, recognized face, NFC phone tag, etc.);
+* an online store "Basket", rewarding customers for their purchases (loyalty system based on the VIZ);, rewarding customers for their purchases (loyalty system based on VIZ);
+* an online quest, as the player completes it, he receives the VIZ rewards;
+* the "Reward a consultant" button in the technical support system for users of a service;
+* a mobile application for voting in polls, for example, "The best player of a football match", "The winner of a song contest" , etc. The voting takes place in the form of awarding the organizers ' account with a comment for whom the vote was given, and they award the winner for the corresponding amount of viz;
+*  etc.
+
+In addition, the applications of the VIZ ecosystem include various services such as Internet wallets for managing accounts and cryptoassets of the VIZ blockchain, software for signing transactions on the participant's side without transferring passwords to insecure applications, etc.
+
+### The VIZ ecosystem scheme (simplified)
+
+Users have VIZ accounts in the blockchain, not in applications. This means that one account can be used by a user in any number of applications without additional registration. The application only translates the standard instructions of the user, "packaging" them in one form or another in accordance with the scenario used by this application.
+
+For example, the order "reward" can be used as a thank for a useful or funny comment in a Telegram chat, as an offer to "make friends" in a dating service, or as a vote for the best player of a football match.
 
 ![Экосистема ВИЗа](https://raw.githubusercontent.com/vizplus/whitepaper/master/VIZ-part3-6-900.jpg)
 
-1 - простейшее приложение типа «кошелёк»: показывает состояние аккаунта пользователя и последние операции, а также транслирует подписанные распоряжения пользователей в блокчейн;
+1 - the simplest application of the "wallet" type: shows the status of the user's account and the latest operations, as well as translates the signed orders of users to the blockchain;
 
-HUB - обычное интернет-приложение (игра, социальная сеть, мессенджер, форум, магазин и т.п.), к которому подключается приложение ВИЗа. Хаб поставляет информацию о действиях пользователей;
+HUB is a regular Internet application (a game, a social network, a messenger, a forum, a store, etc.), to which the VIZ application is connected. The hub provides information about user actions;
 
-2 - «социальное» приложение: обеспечивает взаимодействие пользователей между собой по некоему сценарию, подключаясь к внешним источникам информации (например, помогает награждать друг друга в телеграм-чатах), и транслирует подписанные распоряжения пользователей в блокчейн;
+2 - "social" application: provides users ' interaction with each other according to a certain scenario, connecting to external sources of information (for example, it helps to reward each other in telegram chats), and transmits signed user orders to the blockchain;
 
-3 - приложение, которому пользователи не доверяют: обеспечивает взаимодействие пользователей между собой по некоему сценарию (например, на малоизвестном интернет-форуме), но не подписывает распоряжения пользователей, а направляет их в другое - доверенное - приложение, в котором пользователи ставят подпись;
+3-an application that users do not trust: provides interaction between users according to a certain scenario (for example, on a little-known Internet forum), but does not sign user orders, but directs them to another-trusted-application in which users sign;
 
-4 - «техническое» приложение, взаимодействующее с другими приложениями, а не с пользователями: обеспечивает доверенную среду, в которой пользователи могут подписывать распоряжения, сформированные другими (не доверенными) приложениями.
-## ДАО ВИЗ
-Сообщество участников ВИЗа организовано в форме Децентрализованного Автономного Общества (ДАО). В ВИЗе нет единой «команды», «менеджмента», «корпорации», «организации» и т.п. Каждый участник ДАО действует самостоятельно, используя свой капитал в ВИЗе. Предполагается, что владельцам капитала в ВИЗе выгодно, чтобы его ценность долгосрочно росла, а значит, исходя из своего эгоистичного интереса, они будут способствовать развитию всей экосистемы.
-### Делегаты блокчейна VIZ
+4 - a "technical" application that interacts with other applications, not with users: provides a trusted environment in which users can sign orders generated by other (not trusted) applications.
+
+## THE VIZ DAO
+
+The community of VIZ participants is organized in the form of a Decentralized Autonomous Organization (DAO). There is no single "team", "management", "corporation", "organization", etc. in the VIZ. Each DAO participant acts independently, using his capital in the VIZ. It's assumed that the owners of capital in the VIZ benefit from its long-term value growth, which means that, based on their selfish interest, they will contribute to the development of the entire ecosystem.
+
+### The delegates of The VIZ blockchain
+The only group of VIZ DAO participants who have more rights than others are the delegates of the VIZ blockchain. The delegates maintain and support the work on the blockchain (servers with special software that form blockchain blocks), make decisions on software updates and set the technical and economic parameters of the VIZ operation.
+
 Единственная группа участников ДАО ВИЗ, имеющая больше прав, чем другие, это делегаты блокчейна VIZ. Делегаты содержат и поддерживают работу нод блокчейна (серверов со специальным программным обеспечением, формирующих блоки блокчейна), принимают решения об обновлении программного обеспечения и устанавливают технические и экономические параметры работы ВИЗа.
 
 Делегаты блокчейна VIZ избираются общим непрерывным голосованием по принципу Fair DPoS: количество долевых viz проголосовавшего аккаунта становится количеством его голосов и делится поровну между всеми делегатами, за которых он проголосовал.
